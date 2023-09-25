@@ -1208,10 +1208,10 @@
     "@types/express" "*"
     "@types/serve-static" "*"
 
-"@types/yamljs@0.2.31":
-  version "0.2.31"
-  resolved "https://registry.npmjs.org/@types/yamljs/-/yamljs-0.2.31.tgz"
-  integrity sha512-QcJ5ZczaXAqbVD3o8mw/mEBhRvO5UAdTtbvgwL/OgoWubvNBh6/MxLBAigtcgIFaq3shon9m3POIxQaLQt4fxQ==
+"@types/yamljs@0.2.32":
+  version "0.2.32"
+  resolved "https://registry.yarnpkg.com/@types/yamljs/-/yamljs-0.2.32.tgz#2e1cf7badce713a9ef258810093223fa30bb9e1e"
+  integrity sha512-KeVUr9iOPxHfzB3kWtwMj2RyMGhgLt5rCLKQ63t5TGgAkn2KDI+NccoPki3jwE5fks+ywbqiDfotYgcQH5mvgg==
 
 "@types/yargs-parser@*":
   version "21.0.0"
