@@ -5390,9 +5390,9 @@ semver@^7.5.3:
     lru-cache "^6.0.0"
 
 semver@^7.6.3:
-  version "7.6.3"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-7.6.3.tgz#980f7b5550bc175fb4dc09403085627f9eb33143"
-  integrity sha512-oVekP1cKtI+CTDvHWYFUcMtsK/00wmAEfyqKfNdARm8u1wNVhSgaX7A8d4UuIlUI5e84iEwOhs7ZPYRmzU9U6A==
+  version "7.7.2"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.7.2.tgz#67d99fdcd35cec21e6f8b87a7fd515a33f982b58"
+  integrity sha512-RF0Fw+rO5AMf9MAyaRXI4AV0Ulj5lMHqVxxdSgiVbixSCXoEmmX/jk0CuJw4+3SqroYO9VoUh+HcuJivvtJemA==
 
 send@0.19.0:
   version "0.19.0"
@@ -5816,11 +5816,11 @@ supports-preserve-symlinks-flag@^1.0.0:
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
 swagger-routes-express@^3.3.1:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/swagger-routes-express/-/swagger-routes-express-3.3.2.tgz#292ef9853be43712067ee9808cce631505aa6c1f"
-  integrity sha512-AZC0EnXnW3m1s5OrvyHB3PgTvnsQ7k0TATjw8ZR84LDxpYDTB6r1qABstVmgaaX8whdPb4kzjD0tMVH2ChbGGA==
+  version "3.3.3"
+  resolved "https://registry.yarnpkg.com/swagger-routes-express/-/swagger-routes-express-3.3.3.tgz#82b1b22d98042552c067f5dad782671a08a0d16f"
+  integrity sha512-CSpru33N597E6g9ANmaVbB/0q6tN/NrX0orctbhA7MM2IXzKxgGLfaO7S1dktCi3Tv7BvW8KgANqvpIsh9mDIA==
   dependencies:
-    semver "^7.3.7"
+    semver "^7.6.3"
 
 swagger-ui-dist@>=4.11.0:
   version "4.18.3"
